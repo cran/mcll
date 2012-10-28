@@ -1,0 +1,16 @@
+4fdf8231dff5886239a109228137ab66 *DESCRIPTION
+2427348f6b1677f63a1c49c31b89c04f *NAMESPACE
+0733f50496aa14d2c56935804d6b3267 *R/lik_local.R
+b47d8976814896404661a6e305cbae10 *R/lik_locfit.R
+040f1f0fbe526982c43a40e006f4418e *R/lik_manual.R
+73507c10de49b146f542ac17308d9fb9 *R/mcll_coeff.R
+56837089c16b715c484a023a1a67572d *R/mcll_est.R
+7fb5f5b35f151769d9a8d85e138b05c6 *R/mcll_se.R
+372156e7089a7b30108262263e55aa77 *data/salamander.txt.gz
+fa470abe23a10bae772a18cdc490a85e *data/samp.txt.gz
+c3f6291343f2300041bc834092df8370 *man/mcll-internal.Rd
+a7d41c298c2c92d28381811ffe12194f *man/mcll-package.Rd
+564ba8f5804f78c8c4297bd86541050f *man/mcll_est.Rd
+3b9435f107b7181d9ca372e6531afcad *man/mcll_se.Rd
+d3cc6800ed8a0285e2ebf99ecbc991ad *man/salamander.Rd
+a12350b11b15d5e6f9e0504235598c0f *man/samp.Rd
