@@ -17,7 +17,7 @@ The pacakge \code{mcll} is based on Jeon, Kaufman, and Rabe-Hesketh (2012).
 \tabular{ll}{
 Package: \tab mcll\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.1\cr
 Date: \tab 2012-10-28\cr
 License: \tab \acronym{GPL} \cr
 }

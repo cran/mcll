@@ -1,4 +1,4 @@
-4fdf8231dff5886239a109228137ab66 *DESCRIPTION
+cbb0e7610d3b4d7796b8b7e14aa476f8 *DESCRIPTION
 2427348f6b1677f63a1c49c31b89c04f *NAMESPACE
 0733f50496aa14d2c56935804d6b3267 *R/lik_local.R
 b47d8976814896404661a6e305cbae10 *R/lik_locfit.R
@@ -8,8 +8,10 @@ b47d8976814896404661a6e305cbae10 *R/lik_locfit.R
 7fb5f5b35f151769d9a8d85e138b05c6 *R/mcll_se.R
 372156e7089a7b30108262263e55aa77 *data/salamander.txt.gz
 fa470abe23a10bae772a18cdc490a85e *data/samp.txt.gz
+5b084eca20d5e465c3183daa1581ed68 *inst/doc/mcll.Rnw
+f4c0eb07bc1ef214896e3ec8b97dc1d3 *inst/doc/mcll.pdf
 c3f6291343f2300041bc834092df8370 *man/mcll-internal.Rd
-a7d41c298c2c92d28381811ffe12194f *man/mcll-package.Rd
+a9d98d0ed6d149f7027e8434cf436c6a *man/mcll-package.Rd
 564ba8f5804f78c8c4297bd86541050f *man/mcll_est.Rd
 3b9435f107b7181d9ca372e6531afcad *man/mcll_se.Rd
 d3cc6800ed8a0285e2ebf99ecbc991ad *man/salamander.Rd
