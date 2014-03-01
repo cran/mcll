@@ -44,13 +44,13 @@ mcll_se(data, par, H.prior, alp=0.7,
 
 \references{
 
-  Jeon, M., Kaufman, C., and Rabe-Hesketh, S. (2012). Monte Carlo local likelihood 
-  for estimating generalized linear mixed models. Submitted for publication. 
+  Jeon, M., Kaufman, C., and Rabe-Hesketh, S. (2014). Monte Carlo local likelihood 
+  for approximate MLE of complex models. Under revision. 
 
 }
 
 \author{
-  Minjeong Jeon <mjj@berkeley.edu>
+  Minjeong Jeon <jeon.117@osu.edu>
 }
 
 

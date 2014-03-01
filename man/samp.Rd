@@ -16,7 +16,7 @@ For the model and priors, see Section 4 in Jeon et al. (2012).
 \references{
 
   Jeon, M., Kaufman, C., and Rabe-Hesketh, S. (2012). Monte Carlo local likelihood 
-  for estimating generalized linear mixed models. Submitted for publication. 
+  for approximate MLE of complex models. Submitted for publication. 
 
 }
 
